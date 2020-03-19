@@ -13,8 +13,8 @@ build.sh:
 ```bash
 $ git clone https://github.com/raulppelaez/inform7InLinux
 #Install inform7, only run the first time
-$ LinuxInform7/install_i7.sh
-$ LinuxInform7/build.sh my_story.ni
+$ bash LinuxInform7/install_i7.sh
+$ bash LinuxInform7/build.sh my_story.ni
 $ firefox my_story.release/play.html
 ```
 	
